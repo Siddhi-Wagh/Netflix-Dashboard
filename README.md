@@ -52,7 +52,8 @@ Show Details Page
 - **Dataset:** netflix_titles.csv
 - **.pbix file:** Netflix Dashboard.pbix
 - **Dashboard Screenshot:** Netflix Data Dashboard.png
-- 
+
+
 ## 💬 **Contact**
 - Project by **Siddhi Wagh**
 - For feedback or collaboration: [LinkedIn](https://www.linkedin.com/in/siddhi-wagh-343489169/)
